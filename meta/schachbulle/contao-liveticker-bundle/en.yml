@@ -1,0 +1,14 @@
+en:
+    title: Live ticker
+    description: >
+        Publish live ticker messages in the back end; the front end loads new entries automatically and shows the number of viewers.
+
+        Each message supports a headline, text, an image, an insert tag and a start and stop date.
+    keywords:
+        - live ticker
+        - ticker
+        - messages
+        - live
+    support:
+        issues: https://github.com/Samson1964/contao-liveticker-bundle/issues
+        source: https://github.com/Samson1964/contao-liveticker-bundle

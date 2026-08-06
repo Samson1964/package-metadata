@@ -1,0 +1,14 @@
+de:
+    title: Liveticker
+    description: >
+        Meldungen im Backend tickern, das Frontend lädt neue Einträge automatisch nach und zeigt die Zahl der Zuschauer an.
+
+        Je Meldung sind Überschrift, Text, Bild, Insert-Tag sowie Start- und Stopp-Zeitpunkt möglich.
+    keywords:
+        - Liveticker
+        - Ticker
+        - Meldungen
+        - Live
+    support:
+        issues: https://github.com/Samson1964/contao-liveticker-bundle/issues
+        source: https://github.com/Samson1964/contao-liveticker-bundle

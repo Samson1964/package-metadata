@@ -542,6 +542,7 @@ Listenform
 listwizard
 listWizard
 LiteSpeed
+Liveticker
 LiveValidation
 Lizenzhinweis
 Lizenzhinweise
@@ -955,6 +956,7 @@ Themenwelten
 ThemeRoller
 Thumbnails
 Ticker
+tickern
 tiles
 Tiles
 TimeTags
