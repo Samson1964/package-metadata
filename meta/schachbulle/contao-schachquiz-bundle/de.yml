@@ -1,0 +1,20 @@
+de:
+    title: Schach-Quiz
+    description: >
+        Ein Quiz rund ums Schach mit Fragen, bei denen eine oder mehrere Antworten richtig sind, auf Wunsch mit einer Stellung als Diagramm.
+
+        Jede Antwort verändert eine Wertung nach dem Vorbild der Elo-Zahl: Wer richtig antwortet, steigt und bekommt schwerere Fragen, wer falsch antwortet, leichtere. Keine Frage wird zweimal gestellt. Mitglieder erscheinen in einer Rangliste, Gäste spielen mit einer Wertung nur für ihren Besuch.
+
+        Fragen lassen sich im Backend pflegen oder aus CSV und JSON importieren.
+    keywords:
+        - Schach
+        - Quiz
+        - Schachquiz
+        - Glicko-2
+        - Elo
+        - Rangliste
+        - Multiple Choice
+        - FEN
+    support:
+        issues: https://github.com/Samson1964/contao-schachquiz-bundle/issues
+        source: https://github.com/Samson1964/contao-schachquiz-bundle

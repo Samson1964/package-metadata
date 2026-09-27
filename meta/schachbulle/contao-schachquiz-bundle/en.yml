@@ -1,0 +1,19 @@
+en:
+    title: Chess quiz
+    description: >
+        A chess quiz with single and multiple choice questions, optionally with a position shown as a diagram.
+
+        Every answer changes a rating in the style of the Elo system: correct answers raise it and lead to harder questions, wrong answers to easier ones. No question is asked twice. Members appear in a ranking, guests play with a rating that only lasts for their visit.
+
+        Questions are maintained in the back end or imported from CSV and JSON.
+    keywords:
+        - chess
+        - quiz
+        - Glicko-2
+        - Elo
+        - ranking
+        - multiple choice
+        - FEN
+    support:
+        issues: https://github.com/Samson1964/contao-schachquiz-bundle/issues
+        source: https://github.com/Samson1964/contao-schachquiz-bundle
